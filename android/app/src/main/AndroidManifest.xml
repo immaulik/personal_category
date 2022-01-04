@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.personal_category">
+    <uses-permission android:name="android.permission.INTERNET" /> 
    <application
         android:label="personal_category"
         android:icon="@mipmap/ic_launcher">
